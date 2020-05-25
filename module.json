@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Baharr-Guide",
+    "author": "ZC",
+    "description": "Bahaar's Sanctum - Guide",
+    "options": {
+        "niceName": "Baharr",
+        "guiName": "Baharr-Guide"
+    },
+    "servers": ["https://raw.githubusercontent.com/giggin/Bahaar-Guide/master/"],
+    "supportUrl": "https://github.com/giggin/Bahaar-Guide/issues"
+}
